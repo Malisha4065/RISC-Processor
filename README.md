@@ -28,7 +28,7 @@ The project aimed to design and implement a Reduced Instruction Set Computing (R
 ## How to Use
 
 1. Clone the repository:
-`git clone https://github.com/sahanrashmikaslk/HDL-32bit_RISC_Processor.git`
+`git clone https://github.com/Malisha4065/RISC-Processor.git`
 
 2. Navigate to the `Verilog_Implementation/` directory to access the Verilog code for each module.
 
